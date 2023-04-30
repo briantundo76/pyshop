@@ -1,0 +1,2 @@
+# pyshop
+simple django app
